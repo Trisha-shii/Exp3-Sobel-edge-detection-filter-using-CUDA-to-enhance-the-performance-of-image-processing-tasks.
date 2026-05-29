@@ -2,7 +2,7 @@
 <h3>AIM:How can the implementation of a Sobel edge detection filter using CUDA enhance the performance of image processing tasks compared to a traditional CPU-based approach, and what are the potential challenges and optimizations associated with this parallelization? </h3>
 <h3>NAME: TRISHA PRIYADARSHNI PARIDA</h3>
 <h3>REGISTER NO : 212224230293 </h3>
-<h3>EX. NO</h3>
+<h3>EX. NO : 3</h3>
 <h3>DATE : 26-05-2026/h3>
 <h1> <align=center> Sobel edge detection filter using CUDA </h3>
   Implement Sobel edge detection filtern using GPU.</h3>
