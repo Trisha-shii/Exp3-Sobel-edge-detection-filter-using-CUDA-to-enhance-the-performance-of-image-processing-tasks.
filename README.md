@@ -1,5 +1,5 @@
 # Exp3-Sobel-edge-detection-filter-using-CUDA-to-enhance-the-performance-of-image-processing-tasks.
-<h3>AIM:</h3>
+<h3>AIM:How can the implementation of a Sobel edge detection filter using CUDA enhance the performance of image processing tasks compared to a traditional CPU-based approach, and what are the potential challenges and optimizations associated with this parallelization? </h3>
 <h3>NAME: TRISHA PRIYADARSHNI PARIDA</h3>
 <h3>REGISTER NO : 212224230293 </h3>
 <h3>EX. NO</h3>
@@ -215,12 +215,15 @@ plt.show()
 ```
 
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
+<img width="969" height="586" alt="image" src="https://github.com/user-attachments/assets/2ed99c51-3b3a-437b-bca5-9e84d2566c17" />
+
 
 ## RESULT:
-Thus the program has been executed by using CUDA to ________________.
 
-Questions:
+Thus the program has been executed by using CUDA to accelerate Sobel edge detection and improve image processing performance using parallel computation on GPU.
+
+
+## Questions:
 
 What challenges did you face while implementing the Sobel filter for color images?
 How did changing the block size influence the performance of your CUDA implementation?
